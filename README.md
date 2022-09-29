@@ -1,1 +1,1 @@
-# denseCap-flickr30K
+# densecap-flickr30K
